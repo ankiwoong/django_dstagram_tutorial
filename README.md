@@ -1,4 +1,8 @@
 # 실전 프로젝트 - Dstagram(P.169 ~ P.244)
+### 수업 주제 : 인스타그램 카피 서비스
+### 수업 목적 : 이미지 파일에 관한 설정, 서버 셋팅, 파일 다루기
+
+---
 
 ## 메인 페이지(로그인 사용자만 확인 가능)
 <img src="https://github.com/ankiwoong/django_dstagram_tutorial/blob/master/Temp/Screenshot/%EC%B5%9C%EC%A2%85%20%ED%99%94%EB%A9%B4%20%EB%A9%94%EC%9D%B8%20%ED%8E%98%EC%9D%B4%EC%A7%80(%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%ED%9B%84%20%EC%82%AC%EC%9A%A9%20%EA%B0%80%EB%8A%A5).png?raw=true">
