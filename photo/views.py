@@ -20,7 +20,7 @@ class PhotoUploadView(LoginRequiredMixin, CreateView):
 
     def form_valid(self, form):
         form.instance.author_id = self.request.user.id
-        if form.is_vaid():
+        if form.is_valid():
             form.instance.save()
             return redirect('/')
 
